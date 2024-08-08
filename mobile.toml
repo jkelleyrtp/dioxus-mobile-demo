@@ -1,0 +1,8 @@
+[app]
+name = "mobiledioxus"
+stylized-name = "Mobiledioxus"
+identifier = "dioxuslabs.com"
+template-pack = "wry"
+
+[apple]
+development-team = "34U4FG9TJ8"
